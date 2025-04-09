@@ -1,2 +1,4 @@
+numpy
 tensorflow
-keras
+matplotlib
+PyQt6

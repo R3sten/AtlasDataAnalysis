@@ -1,12 +1,12 @@
 # Atlas Data Analysis
 
-![Tests](https://github.com/R3sten/AtlasDataAnalysis/actions/workflows/tests.yml/badge.svg)
+<!-- ![Tests](https://github.com/R3sten/AtlasDataAnalysis/actions/workflows/tests.yml/badge.svg) -->
 
 This is the code used in my data analysis training internship. Looking for tools to analyze Atlas events throught machine learning, training with Monte Carlo simulated data.
 
 ## Prerequisites
 
-- Python >= 3.10
+- Python >= 3.12
 - Pip 20+
 
 ## Installation
@@ -66,6 +66,7 @@ For testing the code into current enviroment you can simply run from the root of
 pytest
 ```
 
+<!--
 Also you can test it into different Python environments.\
 If not already installed, Python interpreters that that are going to be used during the tests need to be downloaded before:
 
@@ -81,4 +82,4 @@ Then simply you have just to run tox and automatically tests are being done:
 
 ```
 tox
-```
+``` -->
